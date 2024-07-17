@@ -12,3 +12,6 @@
 - オープニングタイトル
 - ステージの切り替え
 - 結果表示
+
+## レトロ風ゲームを作って学ぶPython入門
+https://codezine.jp/article/corner/1006
